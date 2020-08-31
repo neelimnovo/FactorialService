@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+}
+
+.card-body {
+
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    box-sizing: border-box;
+    position: relative;
+}
+.card {
+    border: 5px solid #0277bd;
+    padding: 5px;
+    text-align: center;
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+.input-group {
+    margin-top: 10px;
+}
